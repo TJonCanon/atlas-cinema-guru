@@ -1,7 +1,5 @@
-// Login.js
 import React, { useState } from "react";
 import './auth.css';
-// import Dashboard from "../dashboard/Dashboard";
 import Button from '../../components/general/Button';
 import Input from "../../components/general/Input";
 import { faUser, faKey } from '@fortawesome/free-solid-svg-icons';

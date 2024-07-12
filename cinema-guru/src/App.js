@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import Authentication from './routes/auth/Authentication';
 import axios from 'axios';
-// import Dashboard from './routes/dashboard/Dashboard';
+import Dashboard from './routes/dashboard/Dashboard';
 
 
 function App() {

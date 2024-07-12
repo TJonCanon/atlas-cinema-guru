@@ -1,4 +1,3 @@
-// Authorization.js
 import React, { useState } from 'react';
 import './auth.css';
 import Button from '../../components/general/Button';

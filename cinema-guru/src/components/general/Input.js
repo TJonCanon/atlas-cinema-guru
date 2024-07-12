@@ -9,7 +9,7 @@ const Input = ({ label, type, className, value, setValue, icon, inputAttributes,
         setValue(e.target.value);
     };
 
-    // const inputId = inputAttributes && inputAttributes.id ? inputAttributes.id : '';
+ 
     const inputType = type === 'password' ? 'hidden' ? 'password' : 'text' : type;
 
     return (
